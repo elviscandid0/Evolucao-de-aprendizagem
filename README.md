@@ -1,5 +1,5 @@
 <details>
-<summary>Parte 01</summary>
+<summary>Módulo 02</summary>
 # Evolução-de-aprendizagem
 Repositório referente ao desafio de carreira do M02 do curso de Desenvolvimento de Software da Cubos Academy
 ## Conteúdos a serem trabalhados nesse módulo:
@@ -39,4 +39,51 @@ Repositório referente ao desafio de carreira do M02 do curso de Desenvolvimento
 - Nas aulas de carreira sobre currículo e carta de apresentação, aprendi a importância de destacar minhas realizações e habilidades de forma clara e concisa e aprendi a estruturar meu currículo de maneira que cada seção destacasse minhas experiências relevantes para o cargo desejado. Sobre a carta de apresentação aprendi que devo personalizá-la conforme as exigências de diferentes vagas, destacando como minhas habilidades atendem às necessidades específicas das empresas.
 - Na aula sobre LinkedIn, aprendi a melhorar meu perfil para atrair melhor a atenção de recrutadores e empregadores, aprimorando minha seção de resumo para mostrar minha história profissional e objetivos de carreira de maneira atraente e profissional. Também aprendi a expandir minha rede de contatos de forma estratégica, participando de grupos relevantes e iniciando conversas significativas que ajudaram a fortalecer minha presença online e expandir minhas oportunidades.
 - Desenvolvi um entendimento mais profundo de funções, tipos de dados, e métodos úteis para manipulação de strings e arrays. Aprendi a utilizar de forma mais eficaz funções para modularizar meu código e torná-lo mais fácil de manter e entender. Percebi a importância de escolher os tipos de dados adequados para diferentes situações e explorei uma variedade de métodos de strings e arrays para realizar operações complexas de maneira eficiente.
+<details>
+
+<details>
+<summary>Módulo 04</summary>
+# Evolução-de-aprendizagem
+Repositório referente ao desafio de carreira do M04 do curso de Desenvolvimento de Software da Cubos Academy
+## Conteúdos a serem trabalhados nesse módulo:
+
+- Metodologias ágeis
+- Diversidade e inclusão em tecnologia
+- Marca Pessoal e Plano de Carreira
+- Introdução ao Docker e Docker Compose
+- Banco de Dados
+- Consultas SQL
+- Modelagem de Dados
+- CRUD SQL
+- Agrupamento e Relacionamento entre Tabelas
+- Conexão Node.js com PostgreSQL (paginação)
+- Autenticação e Criptografia
+- Integração com API de terceiros
+- Git e Fluxo de Trabalho em Equipe
+
+## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-
+-
+-
+-
+-
+-
+
+## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+
+- 
+- 
+- 
+- 
+
+## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+
 <details>
