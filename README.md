@@ -81,7 +81,7 @@
 - Estou interessado em aprender como realizar operações de agrupamento e estabelecer relacionamentos entre tabelas.
 - Quero entender como conectar uma aplicação Node.js a um banco de dados PostgreSQL e como implementar técnicas de paginação.
 - Desejo aprender os conceitos básicos de autenticação e criptografia para proteger dados e sistemas.
-- Curioso para descobrir como integrar aplicações com APIs de terceiros.
+- Aprender como integrar aplicações com APIs de terceiros para expandir funcionalidades e interagir com serviços externos.
 - Começar a aprender Git e práticas de fluxo de trabalho em equipe.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
