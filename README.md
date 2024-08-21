@@ -49,42 +49,40 @@
 
   ## Conteúdos a serem trabalhados nesse módulo:
 
-- Metodologias ágeis
-- Diversidade e inclusão em tecnologia
-- Marca Pessoal e Plano de Carreira
-- Introdução ao Docker e Docker Compose
-- Banco de Dados
-- Consultas SQL
-- Modelagem de Dados
-- CRUD SQL
-- Agrupamento e Relacionamento entre Tabelas
-- Conexão Node.js com PostgreSQL (paginação)
-- Autenticação e Criptografia
-- Integração com API de terceiros
-- Git e Fluxo de Trabalho em Equipe
+- Metodologias ágeis;
+- Diversidade e inclusão em tecnologia;
+- Marca Pessoal e Plano de Carreira;
+- Introdução ao Docker e Docker Compose;
+- Banco de Dados;
+- Consultas SQL;
+- Modelagem de Dados;
+- CRUD SQL;
+- Agrupamento e Relacionamento entre Tabelas;
+- Conexão Node.js com PostgreSQL (paginação);
+- Autenticação e Criptografia;
+- Integração com API de terceiros;
+- Git e Fluxo de Trabalho em Equipe.
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
--
--
--
--
--
--
+- Metodologias ágeis são abordagens flexíveis e iterativas para o desenvolvimento de software.
+- Diversidade e inclusão em tecnologia são práticas para garantir que equipes sejam variadas e acolhedoras para todos, criando ambientes de trabalho mais justos e inovadores.
+- Marca Pessoal é a maneira como você se apresenta ao mundo combinando suas habilidades, experiências, valores e personalidade, a sua reputação e a percepção que os outros têm de você. Plano de Carreira é um conjunto de ações e metas que você define para alcançar seus objetivos profissionais ao longo do tempo. Sua marca pessoal deve estar alinhada com seus objetivos de carreira.
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- 
-- 
-- 
-- 
+- Aprender os métodos e práticas ágeis e se aprofundar mais sobre as metodologias ageis para ter um melhor desempenho geral.
+- Aprender e desenvolver as principais areas sobre marca pessoal alinhada com plano de carreira como autoavaliação, networking, desenvolvimento profissional, etc.
+- Entender como Docker e Docker Compose podem ser utilizados.
+- Aprofundar meus conhecimentos sobre bancos de dados.
+- Pretendo aprender a escrever consultas SQL.
+- Desejo aprender os fundamentos da modelagem de dados.
+- Quero começar a praticar as operações CRUD em SQL.
+- Estou interessado em aprender como realizar operações de agrupamento e estabelecer relacionamentos entre tabelas.
+- Quero entender como conectar uma aplicação Node.js a um banco de dados PostgreSQL e como implementar técnicas de paginação.
+- Desejo aprender os conceitos básicos de autenticação e criptografia para proteger dados e sistemas.
+- Curioso para descobrir como integrar aplicações com APIs de terceiros.
+- Começar a aprender Git e práticas de fluxo de trabalho em equipe.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
